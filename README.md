@@ -1,6 +1,6 @@
-# Hey there, I'm Ghaith Abo Hantash 👋
+# <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Software Engineer Developer" width="300" />
 
-**Software Engineer · CS Student at An-Najah University**
+**Ghaith Abo Hantash · CS Student at An-Najah University**
 
 💼 **Current:** Software Engineer | Passionate about Frontend, Backend & Mobile Development
 
@@ -41,4 +41,3 @@ Always learning, experimenting, and contributing to projects that make a real im
 
 - **LinkedIn:** [linkedin.com/in/ghaithabohantash](https://linkedin.com/in/ghaithabohantash)  
 - **Email:** ghaith.a.hantash@gmail.com
-
