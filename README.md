@@ -1,6 +1,6 @@
-# ![Software Engineer Developer](https://img.shields.io/badge/Software%20Engineer-Developer-green?style=for-the-badge)
+# Hey there, I'm Ghaith Abo Hantash 👋
 
-**Ghaith Abo Hantash · CS Student at An-Najah University**
+**Software Engineer · CS Student at An-Najah University**
 
 💼 **Current:** Software Engineer | Passionate about Frontend, Backend & Mobile Development
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="assets/code-coding.gif" width="200" alt="Coding GIF"/>
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
 I am a Software Engineer and Computer Science student at An-Najah University, skilled in **Frontend, Backend, and Mobile Development**.  
 I love building **web and mobile applications** using modern technologies.  
