@@ -1,6 +1,6 @@
 # Hey there, I'm Ghaith Abo Hantash 👋
 
-**Software Engineer · Cap Student at An-Najah University**
+**Software Engineer · CS Student at An-Najah University**
 
 💼 **Current:** Software Engineer | Passionate about Frontend, Backend & Mobile Development
 
