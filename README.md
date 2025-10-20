@@ -23,7 +23,7 @@ Always learning, experimenting, and contributing to projects that make a real im
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 <img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/> 
 <img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-<img align="left" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png"/> 
+<img align="left" src="[https://img.icons8.com/ios-filled/50/000000/nextjs.png](https://images.icon-icons.com/2148/PNG/512/nextjs_icon_132160.png)"/> 
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/> 
 <img align="left" src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 <img align="left" src="https://img.icons8.com/color/48/000000/dart.png"/> 
