@@ -20,18 +20,18 @@ Always learning, experimenting, and contributing to projects that make a real im
 
 ## 🔧 My Skills
 
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/> **JavaScript**  
-<img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/> **TypeScript**  
-<img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/> **React**  
-<img align="left" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png"/> **Next.js**  
-<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/> **CSS3**  
-<img align="left" src="https://img.icons8.com/color/48/000000/flutter.png"/> **Flutter**  
-<img align="left" src="https://img.icons8.com/color/48/000000/dart.png"/> **Dart**  
-<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/> **Node.js**  
-<img align="left" src="https://img.icons8.com/color/48/000000/php.png"/> **PHP**  
-<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/> **MongoDB**  
-<img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> **MySQL**  
-<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/> **Git**
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img align="left" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/flutter.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/dart.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/php.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/> 
 
 <br clear="both"/>
 
