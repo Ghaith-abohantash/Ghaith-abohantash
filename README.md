@@ -1,4 +1,4 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Ghaith Abo Hantash] 👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
