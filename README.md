@@ -38,5 +38,5 @@ Always learning, experimenting, and contributing to projects that make a real im
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [linkedin.com/in/ghaithabohantash](https://linkedin.com/in/ghaithabohantash)  
+- **LinkedIn:** [linkedin.com/in/ghaithabohantash](www.linkedin.com/in/ghaith-abo-hantash-b29211371)  
 - **Email:** ghaith.a.hantash@gmail.com
