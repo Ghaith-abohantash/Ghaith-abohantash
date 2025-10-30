@@ -92,8 +92,10 @@
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ghaith-abo-hantash-b29211371" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ghaith-abo-hantash-b29211371" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+
   </a>
   <a href="mailto:ghaith.a.hantash@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
