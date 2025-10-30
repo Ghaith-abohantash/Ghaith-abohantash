@@ -74,7 +74,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaith-abohantash&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
