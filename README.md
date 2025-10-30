@@ -45,12 +45,12 @@ Always learning, experimenting, and contributing to projects that make a real im
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaithabohantash&show_icons=true&theme=tokyonight" alt="Ghaith's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithabohantash&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghaith-abohantash&show_icons=true&theme=tokyonight" alt="Ghaith's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaith-abohantash&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghaithabohantash&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ghaith-abohantash&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
