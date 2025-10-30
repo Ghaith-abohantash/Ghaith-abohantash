@@ -92,13 +92,13 @@
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ghaith-abo-hantash-b29211371" target="_blank">
+  <a href="www.linkedin.com/in/ghaith-abo-hantash-b29211371" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:ghaith.a.hantash@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
-  <a href="https://github.com/ghaithabohantash" target="_blank">
+  <a href="https://github.com/Ghaith-abohantash" target="_blank">
     <img src="https://img.icons8.com/ios-filled/48/000000/github.png" alt="GitHub"/>
   </a>
 </p>
