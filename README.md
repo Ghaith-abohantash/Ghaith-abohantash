@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghaithabohantash&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ghaithabohantash?label=Followers&style=for-the-badge&color=blue" alt="Followers Badge"/>
-  <img src="https://img.shields.io/github/stars/ghaithabohantash?label=Stars&style=for-the-badge&color=yellow" alt="Stars Badge"/>
 </p>
 
 ---
