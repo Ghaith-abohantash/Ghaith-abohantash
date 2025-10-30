@@ -69,12 +69,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaithabohantash&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithabohantash&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghaith-abohantash&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaith-abohantash&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaithabohantash&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaith-abohantash&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
