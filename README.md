@@ -81,7 +81,7 @@
 ## 📚 Currently Learning
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/aws.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
